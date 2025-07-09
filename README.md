@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/awkoy-notion-mcp-server-badge.png)](https://mseep.ai/app/awkoy-notion-mcp-server)
+
 # Notion MCP Server
 
 ![notion-mcp-sm](https://github.com/user-attachments/assets/6c07003c-8455-4636-b298-d60ffdf46cd8)
